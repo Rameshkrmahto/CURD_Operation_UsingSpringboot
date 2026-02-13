@@ -1,1 +1,1 @@
-This is a backend Java application that demonstrates CRUD operations (Create, Read, Update, Delete) without a web interface. It uses the Spring Boot CommandLineRunner to execute database logic and display the results directly in the Eclipse Console.
+This is a backend Java application that demonstrates CRUD operations (Display information and insert data in database) without a web interface. It uses the Spring Boot CommandLineRunner to execute database logic and display the results directly in the Eclipse Console.
